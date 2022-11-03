@@ -170,4 +170,4 @@ Feat: 관심지역 알림 ON/OFF 기능 추가
 
 ## 배포 주소
 
-- [https://wanted-preonboarding-fe-tasks.vercel.app/](https://wanted-preonboarding-fe-tasks.vercel.app/)
+- [https://pre-onboarding-7th-1-1-10.vercel.app/](https://pre-onboarding-7th-1-1-10.vercel.app/)
